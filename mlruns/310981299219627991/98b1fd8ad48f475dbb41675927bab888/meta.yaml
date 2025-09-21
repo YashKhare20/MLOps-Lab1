@@ -1,0 +1,14 @@
+artifact_uri: /Users/yashkhare/Documents/LeetCode/MLOps/Lab1/mlruns/310981299219627991/98b1fd8ad48f475dbb41675927bab888/artifacts
+end_time: 1758487850924
+entry_point_name: ''
+experiment_id: '310981299219627991'
+lifecycle_stage: active
+run_id: 98b1fd8ad48f475dbb41675927bab888
+run_name: Diabetes Dataset
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758487850788
+status: 3
+tags: []
+user_id: yashkhare
